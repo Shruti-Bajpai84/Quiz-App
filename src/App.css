@@ -9,6 +9,8 @@ body{
     background-color: aliceblue;
     box-shadow: 0 5px 10px 10px;
     align-items: center;
+    display: block;
+    margin: auto;
 
 
 }
